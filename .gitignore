@@ -1,0 +1,7 @@
+data/
+pre-trained/
+venv/
+*.zip
+*.log
+view_data.ipynb
+*plot*.ipynb
