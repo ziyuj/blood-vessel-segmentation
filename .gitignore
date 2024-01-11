@@ -1,7 +1,10 @@
+.gitignore
 data/
 pre-trained/
 venv/
+run/
 *.zip
 *.log
-view_data.ipynb
-*plot*.ipynb
+*.ipynb
+*.pth
+!convolution.ipynb
