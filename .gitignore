@@ -2,7 +2,7 @@
 data/
 pre-trained/
 venv/
-run/
+runs/
 *.zip
 *.log
 *.ipynb
