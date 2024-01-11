@@ -3,6 +3,7 @@ data/
 pre-trained/
 venv/
 runs/
+__pycache__/
 *.zip
 *.log
 *.ipynb
